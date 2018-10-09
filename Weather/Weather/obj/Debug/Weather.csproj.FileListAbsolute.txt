@@ -1,0 +1,17 @@
+C:\Users\zochman\source\repos\Weather\Weather\bin\Weather.dll.config
+C:\Users\zochman\source\repos\Weather\Weather\bin\Weather.dll
+C:\Users\zochman\source\repos\Weather\Weather\bin\Weather.pdb
+C:\Users\zochman\source\repos\Weather\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zochman\source\repos\Weather\Weather\bin\Newtonsoft.Json.dll
+C:\Users\zochman\source\repos\Weather\Weather\bin\System.Net.Http.Formatting.dll
+C:\Users\zochman\source\repos\Weather\Weather\bin\System.Web.Http.dll
+C:\Users\zochman\source\repos\Weather\Weather\bin\System.Web.Http.WebHost.dll
+C:\Users\zochman\source\repos\Weather\Weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zochman\source\repos\Weather\Weather\bin\Newtonsoft.Json.xml
+C:\Users\zochman\source\repos\Weather\Weather\bin\System.Net.Http.Formatting.xml
+C:\Users\zochman\source\repos\Weather\Weather\bin\System.Web.Http.xml
+C:\Users\zochman\source\repos\Weather\Weather\bin\System.Web.Http.WebHost.xml
+C:\Users\zochman\source\repos\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\zochman\source\repos\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Users\zochman\source\repos\Weather\Weather\obj\Debug\Weather.dll
+C:\Users\zochman\source\repos\Weather\Weather\obj\Debug\Weather.pdb

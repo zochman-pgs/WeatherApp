@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Weather Forecast</title>
+</head>
+<body>
+
+
+    <h2>Welcome to Weather Forcast</h2>
+
+    <label>City:</label>
+    <input type="text" id="city" />
+
+    <label>Country:</label>
+    <input type="text" id="coutnry" />
+    <input value="Check Weather" type="button" id="btnPost" />
+
+    <div id="results"></div>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.3.min.js"></script>
+    <script>
+    $("#btnPost").click(function() {
+        var url = '@System.Configuration.ConfigurationManager.AppSettings["apiUrl"]' + "/api/weather/";
+        window.$("#results").empty();
+        var city = (window.$("#city").val());
+        var country = (window.$("#coutnry").val());
+
+        if (city === "" || country === "") {
+            window.$("#results").text("Please fill City and Country");
+            return;
+        }
+        window.$.getJSON(url + country + "/" + city)
+            .done(function(data) {
+                window.$("#results").append("<span>Data for: " + data.location.country + ", " + data.location.city + "</span>");
+                window.$("#results").append("<br />");
+                window.$("#results").append("<span>Temperature: " + data.temperature.value + ", " + data.temperature.format + "</span>");
+                window.$("#results").append("<br />");
+                window.$("#results").append("<span>Humidity: " + data.temperature.humidity + "</span>");
+            })
+            .fail(function() {
+                window.$("#results").text('Something went wrong. Please check if data is correct.' );
+            });
+    });
+    </script>
+</body>
+</html>
