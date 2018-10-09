@@ -1101,7 +1101,7 @@
           "WeatherService": "1.0.0"
         },
         "runtime": {
-          "Weather.dll": {}
+          "WeatherAPI.dll": {}
         }
       },
       "WeatherService/1.0.0": {

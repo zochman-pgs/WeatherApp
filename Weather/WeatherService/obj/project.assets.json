@@ -263,11 +263,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\zochman\\source\\repos\\Weather\\WeatherService\\WeatherService.csproj",
+      "projectUniqueName": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherService\\WeatherService.csproj",
       "projectName": "WeatherService",
-      "projectPath": "C:\\Users\\zochman\\source\\repos\\Weather\\WeatherService\\WeatherService.csproj",
+      "projectPath": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherService\\WeatherService.csproj",
       "packagesPath": "C:\\Users\\zochman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zochman\\source\\repos\\Weather\\WeatherService\\obj\\",
+      "outputPath": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

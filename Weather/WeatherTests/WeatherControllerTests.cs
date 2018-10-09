@@ -1,7 +1,6 @@
 
 using System;
 using NSubstitute;
-using NSubstitute.ExceptionExtensions;
 using Weather.Controllers;
 using WeatherService;
 using WeatherService.Interfaces;

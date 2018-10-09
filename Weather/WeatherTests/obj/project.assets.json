@@ -6096,8 +6096,8 @@
     },
     "WeatherAPI/1.0.0": {
       "type": "project",
-      "path": "../Weather/WeatherAPI.csproj",
-      "msbuildProject": "../Weather/WeatherAPI.csproj"
+      "path": "../WeatherAPI/WeatherAPI.csproj",
+      "msbuildProject": "../WeatherAPI/WeatherAPI.csproj"
     },
     "WeatherService/1.0.0": {
       "type": "project",
@@ -6127,11 +6127,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\zochman\\source\\repos\\Weather\\XUnitTestProject1\\WeatherTests.csproj",
+      "projectUniqueName": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherTests\\WeatherTests.csproj",
       "projectName": "WeatherTests",
-      "projectPath": "C:\\Users\\zochman\\source\\repos\\Weather\\XUnitTestProject1\\WeatherTests.csproj",
+      "projectPath": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherTests\\WeatherTests.csproj",
       "packagesPath": "C:\\Users\\zochman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zochman\\source\\repos\\Weather\\XUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6151,11 +6151,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\zochman\\source\\repos\\Weather\\Weather\\WeatherAPI.csproj": {
-              "projectPath": "C:\\Users\\zochman\\source\\repos\\Weather\\Weather\\WeatherAPI.csproj"
+            "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherAPI\\WeatherAPI.csproj": {
+              "projectPath": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherAPI\\WeatherAPI.csproj"
             },
-            "C:\\Users\\zochman\\source\\repos\\Weather\\WeatherService\\WeatherService.csproj": {
-              "projectPath": "C:\\Users\\zochman\\source\\repos\\Weather\\WeatherService\\WeatherService.csproj"
+            "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherService\\WeatherService.csproj": {
+              "projectPath": "C:\\Users\\zochman\\Documents\\WeatherApp\\Weather\\WeatherService\\WeatherService.csproj"
             }
           }
         }

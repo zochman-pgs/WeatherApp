@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherAPI", "Weather\WeatherAPI.csproj", "{5D264185-FEA1-4C9B-BE9F-A6EB061D5326}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherAPI", "WeatherAPI\WeatherAPI.csproj", "{5D264185-FEA1-4C9B-BE9F-A6EB061D5326}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WeatherForcastWeb", "WeatherForcastWeb\", "{6D9046AF-00F3-4811-965E-46B24BF73A41}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -30,7 +30,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WeatherForcastWeb", "Weathe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherService", "WeatherService\WeatherService.csproj", "{EBF88221-E879-4C2E-810B-193770F6B8D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherTests", "XUnitTestProject1\WeatherTests.csproj", "{B66F40B1-94E7-4836-AF19-82607CCCCD2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherTests", "WeatherTests\WeatherTests.csproj", "{B66F40B1-94E7-4836-AF19-82607CCCCD2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

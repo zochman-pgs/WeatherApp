@@ -9,3 +9,14 @@ C:\Users\zochman\source\repos\Weather\WeatherService\obj\Debug\netstandard2.0\We
 C:\Users\zochman\source\repos\Weather\WeatherService\obj\Debug\netstandard2.0\WeatherService.pdb
 C:\Users\zochman\source\repos\Weather\WeatherService\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
 C:\Users\zochman\source\repos\Weather\WeatherService\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\bin\Debug\netstandard2.0\WeatherService.deps.json
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\bin\Debug\netstandard2.0\WeatherService.dll
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\bin\Debug\netstandard2.0\WeatherService.pdb
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\obj\Debug\netstandard2.0\WeatherService.csprojResolveAssemblyReference.cache
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\obj\Debug\netstandard2.0\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\obj\Debug\netstandard2.0\WeatherService.AssemblyInfoInputs.cache
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\obj\Debug\netstandard2.0\WeatherService.AssemblyInfo.cs
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\obj\Debug\netstandard2.0\WeatherService.dll
+C:\Users\zochman\Documents\WeatherApp\Weather\WeatherService\obj\Debug\netstandard2.0\WeatherService.pdb
