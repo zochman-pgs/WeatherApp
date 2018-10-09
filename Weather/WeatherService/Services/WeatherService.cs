@@ -34,7 +34,9 @@ namespace WeatherService
                 {
                     Humidity = (int)data["query"]["results"]["channel"]["atmosphere"]["humidity"],
                     Format = data["query"]["results"]["channel"]["units"]["temperature"],
-                    Value = (int)data["query"]["results"]["channel"]["item"]["condition"]["temp"]
+                    Value = (int)data["query"]["results"]["channel"]["item"]["condition"]["temp"],
+                    City = data["query"]["results"]["channel"]["location"]["city"],
+                    Country = data["query"]["results"]["channel"]["location"]["country"] 
                 };
             }
             catch (Exception)

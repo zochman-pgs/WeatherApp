@@ -5,11 +5,15 @@ namespace Weather.Controllers
 {
     internal class WeatherViewModelMapper
     {
-        public WeatherViewModel Map(WeatherData weatherData, Location location)
+        public WeatherViewModel Map(WeatherData weatherData)
         {
             return new WeatherViewModel
             {
-                location = location,
+                location = new Location
+                {
+                    city = weatherData.City,
+                    country = weatherData.Country
+                },
                 temperature = new Temperature
                 {
                     format = weatherData.Format,

@@ -25,7 +25,7 @@ namespace Weather.Controllers
             var result = weatherService.GetData(country, city);
             if (result == null)
                 throw new Exception("Something went wrong");
-            var viewModel = new WeatherViewModelMapper().Map(result, new Location { city = city, country = country });
+            var viewModel = new WeatherViewModelMapper().Map(result);
             return Json(viewModel);
         }
     }
